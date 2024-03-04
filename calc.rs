@@ -34,7 +34,7 @@ fn main() {
         io::stdin().read_line(&mut seleccion).expect("Fallo al leer la línea");
         
         if seleccion.trim() == "5" {
-            println!("Hasta luego.");
+            println!("Sesion finalizada..");
             break;
         }
         
