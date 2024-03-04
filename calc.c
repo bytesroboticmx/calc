@@ -66,6 +66,6 @@ int main() {
         }
     } while(seleccion != 5);
 
-    printf("Hasta luego.\n");
+    printf("Sesion finalizada...\n");
     return 0;
 }
