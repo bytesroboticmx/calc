@@ -28,7 +28,7 @@ def main():
         seleccion = input("Selecciona una operación (1/2/3/4/5): ")
         
         if seleccion == '5':
-            print("Hasta luego.")
+            print("Sesion finalizada...")
             break
         
         num1 = float(input("Ingresa el primer número: "))
